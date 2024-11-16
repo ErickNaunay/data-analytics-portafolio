@@ -9,5 +9,7 @@ My CV in [pdf]()
 This is a repositoy to showcase skills, share projects and track my progress in Data Analytics
 
 ## Table of Contents
-- [About]()
+- [About](https://github.com/ErickNaunay/data-analytics-portafolio/blob/master/README.md)
 - [Portfolio Projects]()
+    - [Preprocesamiento basico de datos de ventas](https://github.com/ErickNaunay/data-analytics-portafolio/tree/master/preprocesamiento-basico-ventas)
+    - [Preprocesamiento intermedio de datos de ventas](https://github.com/ErickNaunay/data-analytics-portafolio/tree/master/preprocesamiento-intermedio-ventas)
