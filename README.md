@@ -1,4 +1,4 @@
-# [Erick Naunay - Data Analytics Portfolio] (https://data-analytics-portafolio.onrender.com)
+# Erick Naunay - Data Analytics Portfolio
 
 ## About me
 
